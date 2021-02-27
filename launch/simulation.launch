@@ -4,8 +4,8 @@
     <arg name="initYaw" default="1.5708"/>
 
     <arg name="wit_wt901c_imu" default="true"/>
-    <arg name="sick_lms151" default="true"/>
-    <arg name="velodyne_vlp16" default="false"/>
+    <arg name="sick_lms151" default="false"/>
+    <arg name="velodyne_vlp16" default="true"/>
 
     <arg name="model" default="$(find copernicus_description)/urdf/copernicus.xacro"/>
 
